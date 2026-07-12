@@ -13,7 +13,7 @@
 
 </i>
 
-Sou o Érbson, estudante de Sistemas da Informação na FIAP e apaixonado por entender como as coisas funcionam por trás da tela. Tenho base sólida em Java e lógica de programação, conhecimento em SQL Oracle, e já apliquei isso em projetos reais em equipe — do levantamento de requisitos até a entrega funcionando. 🚀
+Sou o Érbson, estudante de Sistemas da Informação na FIAP, entusiasta em tecnologia e gosto de entender como as tecnologias. Tenho base sólida em Java e lógica de programação, conhecimento em SQL Oracle 🚀
 
 **🟢 Aberto a oportunidades de estágio em desenvolvimento back-end.**
 
@@ -47,7 +47,7 @@ Sou o Érbson, estudante de Sistemas da Informação na FIAP e apaixonado por en
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://logos--world-net.translate.goog/wp-content/uploads/2020/09/Oracle-Logo.png?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc" 
+    src="https://companieslogo.com/img/orig/ORCL-d5a587ae.png?t=1740130451" 
 /><img 
     align="left" 
     alt="HTML"
@@ -99,15 +99,6 @@ Sou o Érbson, estudante de Sistemas da Informação na FIAP e apaixonado por en
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=ErbsonAmorim&show_icons=true&theme=default" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErbsonAmorim&layout=compact" height="150px"/>
-
----
 
 <div align="center">
 
