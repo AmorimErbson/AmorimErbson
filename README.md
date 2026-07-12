@@ -13,7 +13,7 @@
 
 </i>
 
-Sou o Érbson, estudante de Sistemas da Informação na FIAP, entusiasta em tecnologia e gosto de entender como as tecnologias. Tenho base sólida em Java e lógica de programação, conhecimento em SQL Oracle 🚀
+Sou o Érbson, estudante de Sistemas da Informação na FIAP, entusiasta em tecnologia e gosto de entender como as coisas funcionam. Tenho base sólida em Java e lógica de programação, conhecimento em SQL Oracle 🚀
 
 **🟢 Aberto a oportunidades de estágio em desenvolvimento back-end.**
 
